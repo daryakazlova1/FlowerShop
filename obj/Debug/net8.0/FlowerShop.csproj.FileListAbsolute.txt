@@ -1,0 +1,14 @@
+C:\Users\Darya_Kazlova\source\repos\FlowerShop\bin\Debug\net8.0\FlowerShop.exe
+C:\Users\Darya_Kazlova\source\repos\FlowerShop\bin\Debug\net8.0\FlowerShop.deps.json
+C:\Users\Darya_Kazlova\source\repos\FlowerShop\bin\Debug\net8.0\FlowerShop.runtimeconfig.json
+C:\Users\Darya_Kazlova\source\repos\FlowerShop\bin\Debug\net8.0\FlowerShop.dll
+C:\Users\Darya_Kazlova\source\repos\FlowerShop\bin\Debug\net8.0\FlowerShop.pdb
+C:\Users\Darya_Kazlova\source\repos\FlowerShop\obj\Debug\net8.0\FlowerShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darya_Kazlova\source\repos\FlowerShop\obj\Debug\net8.0\FlowerShop.AssemblyInfoInputs.cache
+C:\Users\Darya_Kazlova\source\repos\FlowerShop\obj\Debug\net8.0\FlowerShop.AssemblyInfo.cs
+C:\Users\Darya_Kazlova\source\repos\FlowerShop\obj\Debug\net8.0\FlowerShop.csproj.CoreCompileInputs.cache
+C:\Users\Darya_Kazlova\source\repos\FlowerShop\obj\Debug\net8.0\FlowerShop.dll
+C:\Users\Darya_Kazlova\source\repos\FlowerShop\obj\Debug\net8.0\refint\FlowerShop.dll
+C:\Users\Darya_Kazlova\source\repos\FlowerShop\obj\Debug\net8.0\FlowerShop.pdb
+C:\Users\Darya_Kazlova\source\repos\FlowerShop\obj\Debug\net8.0\FlowerShop.genruntimeconfig.cache
+C:\Users\Darya_Kazlova\source\repos\FlowerShop\obj\Debug\net8.0\ref\FlowerShop.dll
